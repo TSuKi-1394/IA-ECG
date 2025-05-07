@@ -44,6 +44,6 @@ scipy
 Le modèle Random Forest développé permet de détecter efficacement les anomalies dans les signaux ECG avec une précision d'environ 95%. La solution est capable de traiter des signaux en temps réel et de visualiser les anomalies détectées.
 
 ## Auteur
-Tom Monin
-BUT Réseaux et Télécommunications, parcours Cybersécurité
-IUT de Créteil-Vitry
+Tom Monin  
+BUT Réseaux et Télécommunications, parcours Cybersécurité  
+IUT de Créteil-Vitry  
